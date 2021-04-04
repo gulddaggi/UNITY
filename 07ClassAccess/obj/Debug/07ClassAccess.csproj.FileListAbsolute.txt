@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\07ClassAccess\obj\Debug\07ClassAccess.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\07ClassAccess\bin\Debug\07ClassAccess.exe.config
+C:\Users\guldd\source\repos\UNITYST\07ClassAccess\bin\Debug\07ClassAccess.exe
+C:\Users\guldd\source\repos\UNITYST\07ClassAccess\bin\Debug\07ClassAccess.pdb
+C:\Users\guldd\source\repos\UNITYST\07ClassAccess\obj\Debug\07ClassAccess.exe
+C:\Users\guldd\source\repos\UNITYST\07ClassAccess\obj\Debug\07ClassAccess.pdb
