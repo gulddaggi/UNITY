@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe.config
+C:\Users\guldd\source\repos\UNITYST\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe
+C:\Users\guldd\source\repos\UNITYST\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.pdb
+C:\Users\guldd\source\repos\UNITYST\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe
+C:\Users\guldd\source\repos\UNITYST\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.pdb
