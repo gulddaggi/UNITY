@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\bin\Debug\06LocalVar.exe.config
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\bin\Debug\06LocalVar.exe
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\bin\Debug\06LocalVar.pdb
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\obj\Debug\06LocalVar.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\obj\Debug\06LocalVar.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\obj\Debug\06LocalVar.exe
+C:\Users\guldd\source\repos\UNITYST\06LocalVar\obj\Debug\06LocalVar.pdb
