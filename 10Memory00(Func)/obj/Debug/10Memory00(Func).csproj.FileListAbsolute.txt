@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\bin\Debug\10Memory00(Func).exe.config
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\bin\Debug\10Memory00(Func).exe
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\bin\Debug\10Memory00(Func).pdb
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\obj\Debug\10Memory00(Func).csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\obj\Debug\10Memory00(Func).csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\obj\Debug\10Memory00(Func).exe
+C:\Users\guldd\source\repos\UNITYST\10Memory00(Func)\obj\Debug\10Memory00(Func).pdb
