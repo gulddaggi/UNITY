@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\bin\Debug\11Memory00(Value).exe.config
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\bin\Debug\11Memory00(Value).exe
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\bin\Debug\11Memory00(Value).pdb
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\obj\Debug\11Memory00(Value).csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\obj\Debug\11Memory00(Value).csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\obj\Debug\11Memory00(Value).exe
+C:\Users\guldd\source\repos\UNITYST\11Memory00(Value)\obj\Debug\11Memory00(Value).pdb
