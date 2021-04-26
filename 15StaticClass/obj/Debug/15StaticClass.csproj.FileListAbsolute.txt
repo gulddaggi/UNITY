@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\15StaticClass\bin\Debug\15StaticClass.exe.config
+C:\Users\guldd\source\repos\UNITYST\15StaticClass\bin\Debug\15StaticClass.exe
+C:\Users\guldd\source\repos\UNITYST\15StaticClass\bin\Debug\15StaticClass.pdb
+C:\Users\guldd\source\repos\UNITYST\15StaticClass\obj\Debug\15StaticClass.exe
+C:\Users\guldd\source\repos\UNITYST\15StaticClass\obj\Debug\15StaticClass.pdb
