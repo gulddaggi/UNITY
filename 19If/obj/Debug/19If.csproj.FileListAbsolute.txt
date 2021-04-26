@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\19If\bin\Debug\19If.exe.config
+C:\Users\guldd\source\repos\UNITYST\19If\bin\Debug\19If.exe
+C:\Users\guldd\source\repos\UNITYST\19If\bin\Debug\19If.pdb
+C:\Users\guldd\source\repos\UNITYST\19If\obj\Debug\19If.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\19If\obj\Debug\19If.exe
+C:\Users\guldd\source\repos\UNITYST\19If\obj\Debug\19If.pdb
