@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\20Switch\bin\Debug\20Switch.exe.config
+C:\Users\guldd\source\repos\UNITYST\20Switch\bin\Debug\20Switch.exe
+C:\Users\guldd\source\repos\UNITYST\20Switch\bin\Debug\20Switch.pdb
+C:\Users\guldd\source\repos\UNITYST\20Switch\obj\Debug\20Switch.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\20Switch\obj\Debug\20Switch.exe
+C:\Users\guldd\source\repos\UNITYST\20Switch\obj\Debug\20Switch.pdb
