@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\bin\Debug\12Memory02(reference).exe.config
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\bin\Debug\12Memory02(reference).exe
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\bin\Debug\12Memory02(reference).pdb
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\obj\Debug\12Memory02(reference).csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\obj\Debug\12Memory02(reference).csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\obj\Debug\12Memory02(reference).exe
+C:\Users\guldd\source\repos\UNITYST\12Memory02(reference)\obj\Debug\12Memory02(reference).pdb
