@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\21Struct\bin\Debug\21Struct.exe.config
+C:\Users\guldd\source\repos\UNITYST\21Struct\bin\Debug\21Struct.exe
+C:\Users\guldd\source\repos\UNITYST\21Struct\bin\Debug\21Struct.pdb
+C:\Users\guldd\source\repos\UNITYST\21Struct\obj\Debug\21Struct.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\21Struct\obj\Debug\21Struct.exe
+C:\Users\guldd\source\repos\UNITYST\21Struct\obj\Debug\21Struct.pdb
