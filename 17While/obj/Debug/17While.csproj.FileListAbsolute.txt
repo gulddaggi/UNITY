@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\17While\obj\Debug\17While.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\17While\obj\Debug\17While.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\17While\bin\Debug\17While.exe.config
+C:\Users\guldd\source\repos\UNITYST\17While\bin\Debug\17While.exe
+C:\Users\guldd\source\repos\UNITYST\17While\bin\Debug\17While.pdb
+C:\Users\guldd\source\repos\UNITYST\17While\obj\Debug\17While.exe
+C:\Users\guldd\source\repos\UNITYST\17While\obj\Debug\17While.pdb
