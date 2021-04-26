@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\18for\bin\Debug\18for.exe.config
+C:\Users\guldd\source\repos\UNITYST\18for\bin\Debug\18for.exe
+C:\Users\guldd\source\repos\UNITYST\18for\bin\Debug\18for.pdb
+C:\Users\guldd\source\repos\UNITYST\18for\obj\Debug\18for.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\18for\obj\Debug\18for.exe
+C:\Users\guldd\source\repos\UNITYST\18for\obj\Debug\18for.pdb
