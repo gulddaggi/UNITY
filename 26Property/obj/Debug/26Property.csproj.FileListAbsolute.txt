@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\26Property\bin\Debug\26Property.exe.config
+C:\Users\guldd\source\repos\UNITYST\26Property\bin\Debug\26Property.exe
+C:\Users\guldd\source\repos\UNITYST\26Property\bin\Debug\26Property.pdb
+C:\Users\guldd\source\repos\UNITYST\26Property\obj\Debug\26Property.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\26Property\obj\Debug\26Property.exe
+C:\Users\guldd\source\repos\UNITYST\26Property\obj\Debug\26Property.pdb
