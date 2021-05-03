@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\25String01\bin\Debug\25String01.exe.config
+C:\Users\guldd\source\repos\UNITYST\25String01\bin\Debug\25String01.exe
+C:\Users\guldd\source\repos\UNITYST\25String01\bin\Debug\25String01.pdb
+C:\Users\guldd\source\repos\UNITYST\25String01\obj\Debug\25String01.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\25String01\obj\Debug\25String01.exe
+C:\Users\guldd\source\repos\UNITYST\25String01\obj\Debug\25String01.pdb
