@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\bin\Debug\TextRPG001.exe.config
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\bin\Debug\TextRPG001.exe
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\bin\Debug\TextRPG001.pdb
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\obj\Debug\TextRPG001.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\obj\Debug\TextRPG001.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\obj\Debug\TextRPG001.exe
+C:\Users\guldd\source\repos\UNITYST\TextRPG001\obj\Debug\TextRPG001.pdb
