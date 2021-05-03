@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\24ClassConstructer\bin\Debug\24ClassConstructer.exe.config
+C:\Users\guldd\source\repos\UNITYST\24ClassConstructer\bin\Debug\24ClassConstructer.exe
+C:\Users\guldd\source\repos\UNITYST\24ClassConstructer\bin\Debug\24ClassConstructer.pdb
+C:\Users\guldd\source\repos\UNITYST\24ClassConstructer\obj\Debug\24ClassConstructer.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\24ClassConstructer\obj\Debug\24ClassConstructer.exe
+C:\Users\guldd\source\repos\UNITYST\24ClassConstructer\obj\Debug\24ClassConstructer.pdb
