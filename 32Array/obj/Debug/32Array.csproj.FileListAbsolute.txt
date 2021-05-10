@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\32Array\bin\Debug\32Array.exe.config
+C:\Users\guldd\source\repos\UNITYST\32Array\bin\Debug\32Array.exe
+C:\Users\guldd\source\repos\UNITYST\32Array\bin\Debug\32Array.pdb
+C:\Users\guldd\source\repos\UNITYST\32Array\obj\Debug\32Array.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\32Array\obj\Debug\32Array.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\32Array\obj\Debug\32Array.exe
+C:\Users\guldd\source\repos\UNITYST\32Array\obj\Debug\32Array.pdb
