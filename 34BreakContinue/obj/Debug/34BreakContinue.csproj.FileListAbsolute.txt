@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\bin\Debug\34BreakContinue.exe.config
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\bin\Debug\34BreakContinue.exe
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\bin\Debug\34BreakContinue.pdb
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\obj\Debug\34BreakContinue.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\obj\Debug\34BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\obj\Debug\34BreakContinue.exe
+C:\Users\guldd\source\repos\UNITYST\34BreakContinue\obj\Debug\34BreakContinue.pdb

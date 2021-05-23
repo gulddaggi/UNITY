@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\bin\Debug\35InnerUserDataType.exe.config
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\bin\Debug\35InnerUserDataType.exe
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\bin\Debug\35InnerUserDataType.pdb
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\obj\Debug\35InnerUserDataType.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\obj\Debug\35InnerUserDataType.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\obj\Debug\35InnerUserDataType.exe
+C:\Users\guldd\source\repos\UNITYST\35InnerUserDataType\obj\Debug\35InnerUserDataType.pdb

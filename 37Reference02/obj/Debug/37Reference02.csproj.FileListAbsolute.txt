@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\37Reference02\bin\Debug\37Reference02.exe.config
+C:\Users\guldd\source\repos\UNITYST\37Reference02\bin\Debug\37Reference02.exe
+C:\Users\guldd\source\repos\UNITYST\37Reference02\bin\Debug\37Reference02.pdb
+C:\Users\guldd\source\repos\UNITYST\37Reference02\obj\Debug\37Reference02.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\37Reference02\obj\Debug\37Reference02.exe
+C:\Users\guldd\source\repos\UNITYST\37Reference02\obj\Debug\37Reference02.pdb

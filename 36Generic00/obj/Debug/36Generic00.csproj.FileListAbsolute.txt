@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\36Generic00\bin\Debug\36Generic00.exe.config
+C:\Users\guldd\source\repos\UNITYST\36Generic00\bin\Debug\36Generic00.exe
+C:\Users\guldd\source\repos\UNITYST\36Generic00\bin\Debug\36Generic00.pdb
+C:\Users\guldd\source\repos\UNITYST\36Generic00\obj\Debug\36Generic00.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\36Generic00\obj\Debug\36Generic00.exe
+C:\Users\guldd\source\repos\UNITYST\36Generic00\obj\Debug\36Generic00.pdb
