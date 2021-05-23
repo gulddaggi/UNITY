@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\guldd\source\repos\UNITYST\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\guldd\source\repos\UNITYST\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\guldd\source\repos\UNITYST\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\guldd\source\repos\UNITYST\LinkedList\obj\Debug\LinkedList.pdb

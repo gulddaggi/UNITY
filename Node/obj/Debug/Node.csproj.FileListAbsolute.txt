@@ -1,0 +1,7 @@
+C:\Users\guldd\source\repos\UNITYST\Node\bin\Debug\Node.exe.config
+C:\Users\guldd\source\repos\UNITYST\Node\bin\Debug\Node.exe
+C:\Users\guldd\source\repos\UNITYST\Node\bin\Debug\Node.pdb
+C:\Users\guldd\source\repos\UNITYST\Node\obj\Debug\Node.csprojAssemblyReference.cache
+C:\Users\guldd\source\repos\UNITYST\Node\obj\Debug\Node.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\Node\obj\Debug\Node.exe
+C:\Users\guldd\source\repos\UNITYST\Node\obj\Debug\Node.pdb
