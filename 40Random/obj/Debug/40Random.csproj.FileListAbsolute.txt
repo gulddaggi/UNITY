@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\40Random\bin\Debug\40Random.exe.config
+C:\Users\guldd\source\repos\UNITYST\40Random\bin\Debug\40Random.exe
+C:\Users\guldd\source\repos\UNITYST\40Random\bin\Debug\40Random.pdb
+C:\Users\guldd\source\repos\UNITYST\40Random\obj\Debug\40Random.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\40Random\obj\Debug\40Random.exe
+C:\Users\guldd\source\repos\UNITYST\40Random\obj\Debug\40Random.pdb

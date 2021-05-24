@@ -1,0 +1,6 @@
+C:\Users\guldd\source\repos\UNITYST\39Array2D\bin\Debug\39Array2D.exe.config
+C:\Users\guldd\source\repos\UNITYST\39Array2D\bin\Debug\39Array2D.exe
+C:\Users\guldd\source\repos\UNITYST\39Array2D\bin\Debug\39Array2D.pdb
+C:\Users\guldd\source\repos\UNITYST\39Array2D\obj\Debug\39Array2D.csproj.CoreCompileInputs.cache
+C:\Users\guldd\source\repos\UNITYST\39Array2D\obj\Debug\39Array2D.exe
+C:\Users\guldd\source\repos\UNITYST\39Array2D\obj\Debug\39Array2D.pdb
