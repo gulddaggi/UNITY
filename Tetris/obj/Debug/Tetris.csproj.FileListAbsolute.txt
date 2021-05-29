@@ -1,7 +1,0 @@
-C:\Users\guldd\source\repos\UNITYST\Tetris\bin\Debug\Tetris.exe.config
-C:\Users\guldd\source\repos\UNITYST\Tetris\bin\Debug\Tetris.exe
-C:\Users\guldd\source\repos\UNITYST\Tetris\bin\Debug\Tetris.pdb
-C:\Users\guldd\source\repos\UNITYST\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
-C:\Users\guldd\source\repos\UNITYST\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
-C:\Users\guldd\source\repos\UNITYST\Tetris\obj\Debug\Tetris.exe
-C:\Users\guldd\source\repos\UNITYST\Tetris\obj\Debug\Tetris.pdb
